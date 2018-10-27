@@ -1,0 +1,8 @@
+<juego>
+  <pregunta text="{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Raavi;}}&#xD;&#xA;\viewkind4\uc1\pard\b\f0\fs32 Hola que hace?\par&#xD;&#xA;}&#xD;&#xA;">
+    <opcion correcta="true">Nada</opcion>
+    <opcion correcta="false">Estudio</opcion>
+    <opcion correcta="false">Ligando</opcion>
+    <opcion correcta="false">Duermo</opcion>
+  </pregunta>
+</juego>

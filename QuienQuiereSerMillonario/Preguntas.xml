@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<juego>
+  <pregunta text="A^(BvC) si es verdadero A,B y C son:">
+    <opcion correcta="false">A - A=verdadero C=falso B=falso</opcion>
+    <opcion correcta="false">B - A=Verdadero B=false C=falso</opcion>
+    <opcion correcta="true">C - A=verdadero C=verdadero B=falso</opcion>
+    <opcion correcta="false">D - A=falso C=falso B=falso</opcion>
+  </pregunta>
+  <pregunta text="En el mundo existen 10 tipos de personas:">
+    <opcion correcta="false">A - Hombres y mujeres</opcion>
+    <opcion correcta="false">B - Vivos y muertos</opcion>
+    <opcion correcta="true">C - las que saben binario y las que no</opcion>
+    <opcion correcta="false">D - ninguna de las anteriores</opcion>
+  </pregunta>
+  <pregunta text="Es el conjunto de símbolos y leyes que nos permite representar y expresar correctamente los números; según lo anterior nos referimos a:">
+    <opcion correcta="true">A - Sistemas de  numeración</opcion>
+    <opcion correcta="false">B - Números</opcion>
+    <opcion correcta="false">C - Valores de una cifra</opcion>
+    <opcion correcta="fasle">D - Función</opcion>
+  </pregunta>
+
+<pregunta text="A un enunciado al cual se le otorga un valor de verdad se denomina?">
+    <opcion correcta="false">A - Variable</opcion>
+    <opcion correcta="true">B - Preposición</opcion>
+    <opcion correcta="false">C - proposición</opcion>
+    <opcion correcta="fasle">D - conector lógico.</opcion>
+  </pregunta>
+
+<pregunta text="Cuál de los siguientes enunciados corresponde a una negación.">
+    <opcion correcta="false">A - estudiamos informática</opcion>
+    <opcion correcta="true">B - no estudiamos mecánica.</opcion>
+    <opcion correcta="false">C - estudiamos ingles</opcion>
+    <opcion correcta="fasle">D - estudiamos secretariado.</opcion>
+  </pregunta>
+
+<pregunta text="De los siguientes enunciados cuales corresponden a preposiciones:  1. 1 + 1 = 3  2. ¨El número 15 es divisible por 3.">
+    <opcion correcta="false">A - Opción 1</opcion>
+    <opcion correcta="false">B - Opción 2</opcion>
+    <opcion correcta="false">C - ninguna de las anteriores</opcion>
+    <opcion correcta="true">D - Opciones 1 y 2</opcion>
+  </pregunta>
+<pregunta text="La depuración de un programa corresponde a:">
+    <opcion correcta="false">A - Al diseño de un programa</opcion>
+    <opcion correcta="true">B - A la identificación y eliminación de errores</opcion>
+    <opcion correcta="false">C - Cual lenguaje se utiliza</opcion>
+    <opcion correcta="false">D - La solución de un problema</opcion>
+  </pregunta>
+<pregunta text="Los pasos para crear un programa son:">
+    <opcion correcta="true">A - Análisis, codificación, depuración, documentación y mantenimiento</opcion>
+    <opcion correcta="false">B - Análisis, codificación, documentación, depuración y mantenimiento</opcion>
+    <opcion correcta="false">C - Codificación, análisis, depuración, documentación y mantenimiento</opcion>
+    <opcion correcta="false">D - Depuración , análisis, codificación, documentación y mantenimiento</opcion>
+  </pregunta>
+<pregunta text="El número C corresponde al sistema numérico:">
+    <opcion correcta="false">A - Octal</opcion>
+    <opcion correcta="false">B - Decimal</opcion>
+    <opcion correcta="true">C - Hexadecimal</opcion>
+    <opcion correcta="false">D - Binario</opcion>
+  </pregunta>
+<pregunta text="¿En la mitología nórdica como se le llama a los principales dioses?">
+    <opcion correcta="true">A - Æsir</opcion>
+    <opcion correcta="false">B - vidars</opcion>
+    <opcion correcta="false">C - ragnarog</opcion>
+    <opcion correcta="false">D - higgdasil</opcion>
+  </pregunta>
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>  
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>    
+
+  <pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>  
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>    
+
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>  
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>    
+
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>  
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>    
+
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>  
+  
+<pregunta text="Pregunta aqui">
+    <opcion correcta="true">A - opcion 1 aqui</opcion>
+    <opcion correcta="false">B - opcion 2 aqui</opcion>
+    <opcion correcta="false">C - opcion 3 aqui</opcion>
+    <opcion correcta="false">D - opcion 4 aqui</opcion>
+  </pregunta>    
+
+  
+  
+
+
+</juego>

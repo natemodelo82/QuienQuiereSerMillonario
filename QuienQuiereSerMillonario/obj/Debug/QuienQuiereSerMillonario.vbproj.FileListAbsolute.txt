@@ -1,0 +1,19 @@
+C:\Users\rfallas\AppData\Local\Temporary Projects\QuienQuiereSerMillonario\bin\Debug\QuienQuiereSerMillonario.exe.config
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\bin\Debug\QuienQuiereSerMillonario.exe.config
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.Form1.resources
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.Resources.resources
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.Pregunta.resources
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.vbproj.GenerateResource.Cache
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\bin\Debug\QuienQuiereSerMillonario.exe
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\bin\Debug\QuienQuiereSerMillonario.pdb
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\bin\Debug\QuienQuiereSerMillonario.xml
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.exe
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.xml
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.pdb
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\bin\Debug\Interop.WMPLib.dll
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\Interop.WMPLib.dll
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.vbproj.ResolveComReference.cache
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.Editor.resources
+C:\Users\rfallas\Documents\Visual Studio 2012\Projects\QuienQuiereSerMillonario\QuienQuiereSerMillonario\obj\Debug\QuienQuiereSerMillonario.Resource1.resources

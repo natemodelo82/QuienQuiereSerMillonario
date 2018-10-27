@@ -1,0 +1,14 @@
+<juego>
+  <pregunta text="{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}&#xD;&#xA;\viewkind4\uc1\pard\b\f0\fs32 C\'f3mo se llama la mam\'e1 de Clark Kent\par&#xD;&#xA;}&#xD;&#xA;">
+    <opcion correcta="false">María</opcion>
+    <opcion correcta="true">Ninguna</opcion>
+    <opcion correcta="false">Juana</opcion>
+    <opcion correcta="false">Kalele</opcion>
+  </pregunta>
+  <pregunta text="{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}&#xD;&#xA;\viewkind4\uc1\pard\b\f0\fs32 C\'f3mo se llama la mam\'e1 de Bob Esponja\par&#xD;&#xA;}&#xD;&#xA;">
+    <opcion correcta="false">María</opcion>
+    <opcion correcta="false">Esponjina</opcion>
+    <opcion correcta="true">Juana</opcion>
+    <opcion correcta="false">Ninguna</opcion>
+  </pregunta>
+</juego>

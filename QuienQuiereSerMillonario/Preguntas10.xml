@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<juego>
+  <pregunta text="Es un conjunto de simbolos,caracteres y reglas. la definicion anterior corresponde a:">
+    <opcion correcta="false">lenguaje de maquina</opcion>
+    <opcion correcta="false">sistema binario</opcion>
+    <opcion correcta="true">lenguaje de programacion</opcion>
+    <opcion correcta="false">sistema octal</opcion>
+  </pregunta>
+  <pregunta text="que es un disco duro:">
+    <opcion correcta="false">A - no sirve para nada</opcion>
+    <opcion correcta="false">B - que solo sirve para que funcione la compotadora</opcion>
+    <opcion correcta="true">C - donde se puede guardar informacion</opcion>
+    <opcion correcta="false">D - ninguna de las anteriores</opcion>
+  </pregunta>
+  <pregunta text="Que es un sistema numerico :">
+    <opcion correcta="true">A - son las distintas formas de representar la informacion numerica </opcion>
+    <opcion correcta="false">B - Es convertir un numero base decimal a base octal</opcion>
+    <opcion correcta="false">C - Sirve para transmitir uno o mas mensajes </opcion>
+    <opcion correcta="fasle">D - Es un conjunto de simbolos caracteres y reglas </opcion>
+  </pregunta>
+
+  <pregunta text="en que se caracteriza el sistema numerico binario" >
+    <opcion correcta="false">A -multiplicando cada dijito por base 8</opcion>
+    <opcion correcta="true">B - por usar base 2</opcion>
+    <opcion correcta="false">C - por usar base 8</opcion>
+    <opcion correcta="fasle">D - ninguna de las anteriores es correcta.</opcion>
+
+  </pregunta>
+
+  <pregunta text="que programa sirve para hacer presentaciones">
+    <opcion correcta="false">A -word</opcion>
+    <opcion correcta="false">B -exel</opcion>
+    <opcion correcta="true">C -power point</opcion>
+    <opcion correcta="false"> -paint</opcion>
+
+  </pregunta>
+
+  <pregunta text="que programa se usa para hacer documentos">
+    
+  <opcion correcta="false">A -exel</opcion>
+  <opcion correcta="true">B -word</opcion>
+  <opcion correcta="false">C -paint</opcion>
+    <opcion correcta="false">D -power point</opcion>
+</pregunta>
+  <pregunta text="Cuál de los siguientes enunciados corresponde a una negación.">
+    <opcion correcta="false">A - estudiamos informática</opcion>
+    <opcion correcta="true">B - no estudiamos mecánica.</opcion>
+    <opcion correcta="false">C - estudiamos ingles</opcion>
+    <opcion correcta="fasle">D - estudiamos secretariado.</opcion>
+  </pregunta>
+
+  <pregunta text="De los siguientes enunciados cuales corresponden a preposiciones:  1. 1 + 1 = 3  2. ¨El número 15 es divisible por 3.">
+    <opcion correcta="false">A - Opción 1</opcion>
+    <opcion correcta="false">B - Opción 2</opcion>
+    <opcion correcta="false">C - ninguna de las anteriores</opcion>
+    <opcion correcta="true">D - Opciones 1 y 2</opcion>
+  </pregunta>
+  <pregunta text="La depuración de un programa corresponde a:">
+    <opcion correcta="false">A - Al diseño de un programa</opcion>
+    <opcion correcta="true">B - A la identificación y eliminación de errores</opcion>
+    <opcion correcta="false">C - Cual lenguaje se utiliza</opcion>
+    <opcion correcta="false">D - La solución de un problema</opcion>
+  </pregunta>
+  <pregunta text="Los pasos para crear un programa son:">
+    <opcion correcta="true">A - Análisis, codificación, depuración, documentación y mantenimiento</opcion>
+    <opcion correcta="false">B - Análisis, codificación, documentación, depuración y mantenimiento</opcion>
+    <opcion correcta="false">C - Codificación, análisis, depuración, documentación y mantenimiento</opcion>
+    <opcion correcta="false">D - Depuración , análisis, codificación, documentación y mantenimiento</opcion>
+  </pregunta>
+  <pregunta text="El número C corresponde al sistema numérico:">
+    <opcion correcta="false">A - Octal</opcion>
+    <opcion correcta="false">B - Decimal</opcion>
+    <opcion correcta="true">C - Hexadecimal</opcion>
+    <opcion correcta="false">D - Binario</opcion>
+  </pregunta>
+  <pregunta text="¿En la mitología nórdica como se le llama a los principales dioses?">
+    <opcion correcta="true">A - Æsir</opcion>
+    <opcion correcta="false">B - vidars</opcion>
+    <opcion correcta="false">C - ragnarog</opcion>
+    <opcion correcta="false">D - higgdasil</opcion>
+  </pregunta>
+  <pregunta text="Que es el Hadware :">
+    <opcion correcta="true">A - Todos los componentes fisicos de una computadora</opcion>
+    <opcion correcta="false">B - Todos los programas</opcion>
+    <opcion correcta="false">C - VideoJuegos</opcion>
+    <opcion correcta="fasle">D - Es un conjunto de simbolos caracteres y reglas</opcion>
+  </pregunta>
+  <pregunta text="El mouse es parte de :">
+    <opcion correcta="true">A - Hadware</opcion>
+    <opcion correcta="false">B - Software</opcion>
+    <opcion correcta="false">C - Sistema operativo</opcion>
+    <opcion correcta="false">D - Los porgamas</opcion>
+  </pregunta>
+
+  <pregunta text="que es el software">
+    <opcion correcta="true">A - son todos los programas de una computadora</opcion>
+    <opcion correcta="false">B - el teclado</opcion>
+    <opcion correcta="false">C - el mouse</opcion>
+    <opcion correcta="false">D - es la parte fisica de una computadora</opcion>
+  </pregunta>
+
+  <pregunta text="Cual es el sistema binario">
+    <opcion correcta="true">A - Del 0 al 1</opcion>
+    <opcion correcta="false">B - Del 0 al 8</opcion>
+    <opcion correcta="false">C - Del 0 al 9</opcion>
+    <opcion correcta="false">D - Del 0 a la F</opcion>
+  </pregunta>
+
+  <pregunta text="cuales digitos se usan en el sistema numerico">
+    <opcion correcta="false">A - 1 y 2</opcion>
+    <opcion correcta="false">B -4 y 9</opcion>
+    <opcion correcta="true">C -1y 0</opcion>
+    <opcion correcta="false">D -8y 11</opcion>
+  </pregunta>
+
+
+  
+
+  <pregunta text="que es un hadware">
+    <opcion correcta="false">A - son todos los archivos</opcion>
+    <opcion correcta="false">B - son los videojuegos</opcion>
+    <opcion correcta="false">C - son los antivirus</opcion>
+    <opcion correcta="true">D - son todos los objetos que estan afuera como el mouse</opcion>
+  </pregunta>
+
+
+  <pregunta text="Un ejemplo de Hardware es...">
+    <opcion correcta="true">A - Monitor</opcion>
+    <opcion correcta="false">B - Windows</opcion>
+    <opcion correcta="false">C - Microsoft</opcion>
+    <opcion correcta="false">D - Office</opcion>
+  </pregunta>
+
+  <pregunta text="El software es?">
+    <opcion correcta="true">A - Los programas del equipo</opcion>
+    <opcion correcta="false">B - Mouse</opcion>
+    <opcion correcta="false">C - Procesador</opcion>
+    <opcion correcta="false">D - Teclado</opcion>
+  </pregunta>
+
+  <pregunta text="pase la siguiente sifra de binario a decimal 100011 ">
+    <opcion correcta="true">A - 70</opcion>
+    <opcion correcta="false">B - 35</opcion>
+    <opcion correcta="false">C 40</opcion>
+    <opcion correcta="false">D - 60</opcion>
+  </pregunta>
+
+  <pregunta text="pase la siguiente sifra de decimal a binario 70">
+    <opcion correcta="true">A - 100011</opcion>
+    <opcion correcta="false">B - 110010</opcion>
+    <opcion correcta="false">C - 110001</opcion>
+    <opcion correcta="false">D - 111001</opcion>
+  </pregunta>
+
+
+      <pregunta text="Pregunta aqui">
+        <opcion correcta="true">A - opcion 1 aqui</opcion>
+        <opcion correcta="false">B - opcion 2 aqui</opcion>
+        <opcion correcta="false">C - opcion 3 aqui</opcion>
+        <opcion correcta="false">D - opcion 4 aqui</opcion>
+      </pregunta>
+
+      <pregunta text="Pregunta aqui">
+        <opcion correcta="true">A - opcion 1 aqui</opcion>
+        <opcion correcta="false">B - opcion 2 aqui</opcion>
+        <opcion correcta="false">C - opcion 3 aqui</opcion>
+        <opcion correcta="false">D - opcion 4 aqui</opcion>
+      </pregunta>
+
+
+      <pregunta text="Pregunta aqui">
+        <opcion correcta="true">A - opcion 1 aqui</opcion>
+        <opcion correcta="false">B - opcion 2 aqui</opcion>
+        <opcion correcta="false">C - opcion 3 aqui</opcion>
+        <opcion correcta="false">D - opcion 4 aqui</opcion>
+      </pregunta>
+
+      <pregunta text="Pregunta aqui">
+        <opcion correcta="true">A - opcion 1 aqui</opcion>
+        <opcion correcta="false">B - opcion 2 aqui</opcion>
+        <opcion correcta="false">C - opcion 3 aqui</opcion>
+        <opcion correcta="false">D - opcion 4 aqui</opcion>
+      </pregunta>
+
+
+      <pregunta text="Pregunta aqui">
+        <opcion correcta="true">A - opcion 1 aqui</opcion>
+        <opcion correcta="false">B - opcion 2 aqui</opcion>
+        <opcion correcta="false">C - opcion 3 aqui</opcion>
+        <opcion correcta="false">D - opcion 4 aqui</opcion>
+      </pregunta>
+
+
+</juego>
